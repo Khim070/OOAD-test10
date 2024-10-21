@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IhuHXE1XW9U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\palav\\source\\repos\\ProductPricing\\library\\productlib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\palav\\.nuget\\packages\\menulib\\1.0.1\\menulib.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
